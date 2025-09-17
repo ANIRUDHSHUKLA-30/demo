@@ -1,4 +1,4 @@
 # demo
 This is my first Git repository
 <br>
-author-anirudh shukla
+author-Anirudh Shukla
